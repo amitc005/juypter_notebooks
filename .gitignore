@@ -1,0 +1,5 @@
+env
+.autoenv.*
+.ipynb_checkpoints/
+Untitled.ipynb
+
